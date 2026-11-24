@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# C/C++ executable files
+hello
+hello_cpp
+debug
+debug_cpp
+comments
+before_optimization
+after_optimization
+
+# Python cache
+__pycache__/
+*.pyc
